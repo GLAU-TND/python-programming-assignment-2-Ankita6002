@@ -9,5 +9,6 @@ for i in p:
 			s=j[-1]
 			p.remove(j)
 			break
+			
 c=p+c
 print(c)
